@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.stu_info_table{
+	width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #a2a1ac;
+}
+.stu_info_table tr{
+	border:1px solid #a2a1ac;
+	text-align:left;
+}
+
+
+.table_header{
+	background-color: rgb(160,188,224);
+}
+
+/* 底部的超链接 */
+.paging{		
+	text-align: center;
+	
+}
